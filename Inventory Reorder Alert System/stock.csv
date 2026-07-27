@@ -1,0 +1,22 @@
+item_name,current_quantity,reorder_threshold
+MacBook Pro 16",12,10
+MacBook Air M3,8,15
+Dell OptiPlex Desktop,2,15
+HP EliteBook Laptop,0,10
+Lenovo ThinkPad X1,14,12
+Samsung Galaxy S24,18,20
+iPhone 15 Pro,0,8
+iPad Air 256GB,,10
+iPad Pro 12.9",5,25
+Google Pixel 8,12,15
+Samsung 27" Monitor,ten,15
+Dell 32" Curved Monitor,1,5
+Logitech MX Master 3S,45,50
+Apple Magic Keyboard,30,15
+USB-C Hub Adapter,6,25
+USB-C Charging Cable,3,5
+HDMI 2.1 Cable 2m,85,40
+AirPods Pro,15,80
+Sony WH-1000XM5,8,10
+Anker Power Bank 20k,0,30
+,,

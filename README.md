@@ -4,7 +4,7 @@ A small Python tool I built to stop manually eyeballing stock spreadsheets. It r
 
 ## Demo
 
-Video walkthrough: [YOUR_YOUTUBE_LINK_HERE]
+Video walkthrough: [![Watch the video walkthrough](https://img.youtube.com/vi/2qWczktEIG0/maxresdefault.jpg)](https://youtu.be/2qWczktEIG0)
 
 ## What it does
 
@@ -16,8 +16,6 @@ Video walkthrough: [YOUR_YOUTUBE_LINK_HERE]
 - Sends an HTML email through Gmail with the same info, plus the CSV attached
 
 ## Screenshots
-
-Drop your images in a `screenshots/` folder in the repo and they'll show up here.
 
 **Input CSV**
 ![Stock CSV](screenshots/stock-csv.png)
